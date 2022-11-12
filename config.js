@@ -20,7 +20,7 @@ module.exports = {
         url: 'https://ntdeveloper.me',
         image: '',
     },
-    title: 'Kalashi',
+    title: 'ntdevelopers',
     titles:[
         {title: 'Home', url: '/', icon: 'fa-house'},
         {title: 'Projects', url: '/projects' ,icon: 'fa-blog'},
