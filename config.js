@@ -1,24 +1,23 @@
 module.exports = {
     discord:{
-        id: "714464777388294237", 
+        id: "1005112531431469136", 
     },
     github:{
-        token1: "ghp_glp5HVMRtuOmz6b",
-        token2: "sQrU6hpJNdqo10J2IkmuF"
+        token1: "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",
+        token2: "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"
     },
     about:{
         description: "I'm a software engineer, I love to code and I'm a big fan of open source.", 
     },
     social:{
-        github: "https://github.com/kalashiexe",
-        instagram: "https://instagram.com/mustafacanyl",
+        github: "https://github.com/Burger1w",
     },
     meta:{
         title: 'My Personal Website',
         description: 'My Personal Website',
         theme: '#02060f',
         lang: 'en',
-        url: 'https://kalashi.me',
+        url: 'https://ntdeveloper.me',
         image: '',
     },
     title: 'Kalashi',
