@@ -25,12 +25,6 @@ export default function Footer() {
       href: `https://discord.com/users/${config.discord.id}`,
       target: "_blank",
     },
-    github: {
-      icon: "github",
-      alt: "Github",
-      href: `${config.social.github}`,
-      target: "_blank",
-    },
   };
   return (
     <>
