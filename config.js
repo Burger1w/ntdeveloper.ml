@@ -3,8 +3,8 @@ module.exports = {
         id: "1005112531431469136", 
     },
     github:{
-        token1: "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",
-        token2: "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"
+        token1: "ghp_glp5HVMRtuOmz6b",
+        token2: "sQrU6hpJNdqo10J2IkmuF"
     },
     about:{
         description: "I'm a software engineer, I love to code and I'm a big fan of open source.", 
