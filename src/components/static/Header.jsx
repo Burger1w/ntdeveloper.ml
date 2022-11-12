@@ -64,7 +64,7 @@ export default function Header() {
         <div className="flex items-center">
           <button className="bg-indigo dark:bg-indigo/75 font-medium p-2 w-32 translation duration-300 hover:bg-indigo/60 rounded-md text-white">
             <a
-              href="https://discord.com/users/714464777388294237"
+              href="https://discord.com/users/1005112531431469136"
               target="_blank"
             >
               Contact
